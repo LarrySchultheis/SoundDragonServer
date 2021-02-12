@@ -6,6 +6,5 @@ class jsonParser():
 
     def parse(self):
         file = open(self.filename)
-        obj = json.loads(file.read())
-        tracks = obj["tracks"]
-        return tracks[0]
+        tracks = json.loads(file.read())["tracks"]
+        return tracks

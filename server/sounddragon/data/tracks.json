@@ -1,6 +1,16 @@
 {
     "tracks": [
-        {"name": "combat", "link": "https://www.youtube.com/watch?v=L74pTmqgQ9o&list=PLRbiX313Abz2yDR_9SFo7hGwSvntXUX3r&ab_channel=DeusAcimadeTodos%21"},
-        {"name": "bosses", "link": "https://www.youtube.com/watch?v=5JaZW0XEe70&list=PLRbiX313Abz3XHZ9R5Ad2Upy_6MgY4Qn7&ab_channel=DeusAcimadeTodos%21"}
+        {"name": "Combat", "link": "https://www.youtube.com/watch?v=L74pTmqgQ9o&list=PLRbiX313Abz2yDR_9SFo7hGwSvntXUX3r&ab_channel=DeusAcimadeTodos%21"}
+        ,{"name": "Bosses", "link": "https://www.youtube.com/watch?v=5JaZW0XEe70&list=PLRbiX313Abz3XHZ9R5Ad2Upy_6MgY4Qn7&ab_channel=DeusAcimadeTodos%21"}
+        ,{"name": "Town", "link": "https://www.youtube.com/watch?v=Y4KX-owEk98&list=PLRbiX313Abz2kAV-WkYIEM7bSQsjzd_x-&ab_channel=Everness"}
+        ,{"name": "Classical", "link": "https://www.youtube.com/watch?v=32Ag0dBGbvc&list=PLRbiX313Abz3O6ry_wA2tNfTHasJOZo9r&ab_channel=ThePochaccos"}
+        ,{"name": "Tavern", "link": "https://www.youtube.com/watch?v=0HNCSSBWtMY&list=PLRbiX313Abz0eRMVlsgjvlGH8WuUnzHSJ&ab_channel=DeusAcimadeTodos%21"}
+        ,{"name": "Dungeon", "link": "https://www.youtube.com/watch?v=paDuue9Bgas&list=PLRbiX313Abz3S5vE0Qe1KnzFDQ9qKEkhF&ab_channel=DeusAcimadeTodos%21"}
+        ,{"name": "Suspenseful", "link": "https://www.youtube.com/watch?v=cJ95VkZu4iY&list=PLRbiX313Abz3lLZU80bFfvfl78pnrk7bs&ab_channel=DeusAcimadeTodos%21"}
+        ,{"name": "Adventuring", "link": "https://www.youtube.com/watch?v=Llp6wx00lW8&list=PLRbiX313Abz0qmaR2aI85M0aTsUbLEkl-&ab_channel=DeusAcimadeTodos%21"}
+
+    
+    
+    
     ]
 }

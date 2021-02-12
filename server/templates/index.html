@@ -9,7 +9,12 @@
 
 <body>
     <h1>Index</h1>
-    
-    <a target="_blank" rel="noopener noreferrer" href="{{obj['link']}}">{{obj["name"]}}</a>
+
+    {% for item in tracks %}
+        <button>
+            <a target="_blank" rel="noopener noreferrer" href="{{item['link']}}">{{item["name"]}}</a>
+        </button>
+    {% endfor %}
+
 </body>
 </html>

@@ -4,12 +4,13 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    obj = parse()
-    return render_template("index.html", obj=obj)
+    tracks = parse()
+    print(tracks)
+    return render_template("index.html", tracks=tracks)
 
 def parse():
     parser = jp.jsonParser("server/sounddragon/data/tracks.json")
-    obj = parser.parse()
-    return obj
+    tracks = parser.parse()
+    return tracks
 
 
